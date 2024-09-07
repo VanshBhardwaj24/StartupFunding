@@ -4,6 +4,8 @@
 
 Welcome to the Startup Dashboard! This Streamlit application provides a comprehensive analysis of startup funding data. The app allows users to explore various metrics and visualizations related to startup investments, sectors, and investors.
 
+Live at ![Dashboard}(https://startupfunding2010s.streamlit.app/)
+
 ## Features
 
 - **Overall Analysis**: Get insights into total funding, maximum funding, average funding, and the number of funded startups. View month-on-month funding trends, top sectors, funding types, city-wise funding, top startups, and a funding heatmap.
