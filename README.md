@@ -1,6 +1,4 @@
-Here's a sample README for your Streamlit app:
 
----
 
 # Startup Dashboard
 
